@@ -1,2 +1,2 @@
-# unity-cookbook-2018-ch01-06-timerAsSlider
-chapter 1- example 6 - display countdown timer value as UI Slider
+# unity-cookbook-2018-ch02-05-timerAsSlider
+chapter 2 - example 5 - display countdown timer value as UI Slider
